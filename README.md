@@ -59,17 +59,17 @@
     </div>
     <div align=center>
         <h1>Github Stats</h1>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheriff-rango&langs_count=10&title_color=6FDA44&text_color=FFFFFF&&theme=dark&layout=compact" alt="AnhellO :: Top Langs" />
-        <img src="https://github-readme-stats.vercel.app/api?username=sheriff-rango&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheriff-rango&langs_count=10&bg_color=30,DD4814,7432FF&title_color=6FDA44&text_color=FFFFFF&&theme=dark&layout=compact" alt="AnhellO :: Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api?username=sheriff-rango&title_color=6FDA44&bg_color=30,DD4814,7432FF&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
         <br>
         <!--
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfathydev&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
         <br>
         -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheriff-rango&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheriff-rango&theme=jolly&background=7432FF&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
         <br>
         <br>
-        <img src="https://github-profile-trophy.vercel.app/?username=sheriff-rango&column=6&title=Stars,Followers,Commit,Issues,PullRequest,Repo">
+        <img src="https://github-profile-trophy.vercel.app/?username=sheriff-rango&column=6&title=Stars,Followers,Commit,Issues,PullRequest,Repo&theme=nord">
         <br>
         <br>
     </div>
@@ -79,4 +79,4 @@
 
 Credit: [Bikas Lin](https://github.com/sheriff-rango)
 
-Last edited on: 23/03/2022
+Last edited on: 11/10/2022
