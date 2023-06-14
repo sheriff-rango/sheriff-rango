@@ -77,6 +77,4 @@
 
 <!-- ## [![trophy](https://github-profile-trophy.vercel.app/?username=sheriff-rango&column=4)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-Credit: [Bikas Lin](https://github.com/sheriff-rango)
-
 Last edited on: 11/10/2022
