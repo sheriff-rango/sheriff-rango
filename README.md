@@ -7,13 +7,7 @@
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Blockchain+Developer;React+Expert;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
     </div>
-<!--     <div align=center>
-        <!-- <a href="https://www.linkedin.com/in/bikas-lin-49725b235/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
-        <a href="sheriff0613@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" /></a>
-        <a href="https://join.skype.com/invite/CcW9mrzN2nzg"><img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="" /></a>
-        <a href="https://t.me/IIBikafu"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-        <a href="https://stackoverflow.com/users/17582798/bikas-lin"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
-    </div> -->
+    </div>
     <div>
       <h1><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Languages & Tools I Know...</h1>
       <p align='left'>
