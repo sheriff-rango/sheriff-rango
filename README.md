@@ -10,7 +10,7 @@
     </div>
     <div>
       <h1><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Languages & Tools I Know...</h1>
-      <div>
+      <div style="display: flex; gap: 5px; flex-wrap: wrap; justify-content: space-between">
         <img height="30" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
         <img height="30" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
         <img height="30" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
