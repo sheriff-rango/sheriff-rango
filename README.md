@@ -79,4 +79,6 @@
 
 <!-- ## [![trophy](https://github-profile-trophy.vercel.app/?username=sheriff-rango&column=4)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-Last edited on: 11/10/2022
+[![](https://visitcount.itsvg.in/api?id=sheriff-rango&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+Last edited on: 8/7/2024
